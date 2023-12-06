@@ -1,0 +1,137 @@
+body{ background-color: brown;
+    
+}
+    ul li{
+        float: left;
+        margin-left: 85px;
+        list-style: none;
+    }
+    .Nav{margin-left: 190px;
+        position: fixed;
+        color:white;
+         margin-top: 1px;
+        background-color:brown;
+
+    }
+    .Nav li a{
+        color: white;
+        text-decoration: none;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    .Nav li a:hover{
+        background-color: brown;
+    }
+    #active{
+        background-color: white;
+        color: black;
+    }
+    #active:hover{
+        background-color: white;
+        color: chartreuse;
+    }
+
+
+    .Best{text-align: center; color: white; font-size: 70px;
+    font-family: sans-serif;
+    }
+    .Elegejohnson{color: cornsilk; text-align: center;font-size: 40px; font-family: inherit ;}
+
+    .Tasty{background-image: url(./Restaurant\ background.png);
+    background-repeat: no-repeat; 
+    background-size: 1500px;
+    background-attachment: fixed;
+    
+    }
+
+    .Menu{margin-top: 300px;}
+button{
+    background-color: brown;
+    border: 1px solid yellow;
+    height: 30px;
+    color: white;
+    margin-left: -2px;
+}
+
+.menu{margin-top: 5000px;}
+
+h1{color: white;}
+p{color: bisque;}
+
+.Table{background-attachment: fixed;background-size: 1500px;}
+
+.images_4{
+    
+  
+}
+
+
+.Links li a{
+    text-decoration: none;
+    list-style: none;
+    color: black;
+}
+.Links li a:hover{
+    color: white;
+}
+.LI1{
+    margin-top: 20px;
+}
+.LI{
+    margin-left: 75px;
+    margin-top: 20px;
+}
+.LII1 a {text-decoration:none;
+    color: black;
+
+}
+.LII1 a:hover{
+    color:white
+}
+
+
+.Nav{text-decoration: none;}
+
+.Testimony{margin-top:  800px;}
+.Firstl{margin-left: 75px;}
+#middle{margin-bottom: -104px;
+margin-left: 48px;}
+
+
+.Secondl{
+    display: flex;
+    flex-wrap: wrap;
+}
+.Secondl img{
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+ /* .img2{margin-top: 200px;}  */
+/* #middle2{margin-bottom: -104;
+margin-left: 48px;} */
+
+.mail{
+    text-decoration: none;
+    color: yellow;
+    
+}
+
+form{margin-left: 700px;
+    margin-top: 400px;
+    color: black;
+}
+
+#yname{width: 500px;
+height: 50px;
+border-radius: 10px;
+}
+
+#hmp{width: 500px;
+    height: 50px;
+    border-radius: 10px;
+    }
+
+#when{width: 500px;
+    height: 50px;
+    border-radius: 10px;
+    }    
